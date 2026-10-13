@@ -13,9 +13,9 @@ Esiana provides tools for campaign management, worldbuilding, codex organization
 Key areas include:
 
 - Campaign and party management
-- Worldbuilding and codex systems
+- Worldbuilding and wiki
 - Characters, organizations, locations, and maps
-- Historical timelines and narrative continuity
+- Multiple timelines support and session tracking
 - Knowledge discovery and player-facing content
 - Self-hosted deployment with SQLite or PostgreSQL
 
@@ -28,7 +28,7 @@ Documentation, guides, architecture references, and API resources.
 - User and administrator guides
 - Developer documentation
 - Design and architecture references
-- API documentation and Swagger/OpenAPI links
+- API documentation and OpenAPI links
 
 → https://github.com/Esiana-ttrpg/docs
 
@@ -37,9 +37,3 @@ Documentation, guides, architecture references, and API resources.
 Community-maintained plugins, integrations, examples, and extensions.
 
 → https://github.com/Esiana-ttrpg/community-plugins
-
-## Learn More
-
-- Documentation: https://github.com/Esiana-ttrpg/docs
-- API Reference: `<swagger URL>`
-- Main Application: https://github.com/Esiana-ttrpg/esiana-core
